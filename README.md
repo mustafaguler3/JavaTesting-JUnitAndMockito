@@ -17,3 +17,13 @@ Hamcrest framework
 AssertJ Library
 
 JsonPath Library
+
+**IDE:**
+
+Intellij IDEA
+
+**Database:**
+
+H2 In-memory database
+
+MySQL database ( for Integration testing)
